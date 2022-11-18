@@ -1,0 +1,6 @@
+#2nd file created on local
+# 
+#
+#
+#
+# Firstly you clone the latest, then you stage the changes, then you commit the changes, then you pull the changes to ensure the main is still the main(somebody else might've changed it from the point you cloned it) and then push the changes.
